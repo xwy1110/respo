@@ -27,7 +27,7 @@ spring:
     solr:
       host: http://localhost:8090/solr
   mongodb:
-      uri: mongodb://localhost:27017/1809b3
+      uri: mongodb://localhost:27017/xwy1
   rabbitmq:
     host: localhost
     port: 5672
